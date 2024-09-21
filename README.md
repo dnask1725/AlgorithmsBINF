@@ -1,4 +1,4 @@
-# AlgorithmsBINF
+# Algorithms in Bioinformatics
 
 A collection of algorithms with use cases commonly used in bioinformatics.
 
